@@ -1,5 +1,4 @@
 # Chat with Multiple PDFs using LLaMA 2 and LangChain
-This is a LLM Chatbot-RAG which i developed.This takes input a PDF ,reads it and then a user can ask whatever they require from the pdf
 This project is a Streamlit-based application that allows you to interact with multiple PDF documents by asking questions. The application leverages the power of LangChain, LLaMA 2, and various NLP tools to provide meaningful responses based on the content of the uploaded documents.
 
 ## Features
