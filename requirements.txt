@@ -1,0 +1,25 @@
+## Libraries Required LLM
+huggingface
+huggingface_hub
+transformers
+accelerate
+bitsandbytes
+python-dotenv
+streamlit
+pypdf2
+langchain_community
+faiss-cpu
+langchain
+InstructorEmbedding
+sentence_transformers == 2.2.2
+chromadb
+instructor-embedding
+torch
+##############
+pydantic
+fastapi
+uvicorn
+poetry
+########
+nltk
+
